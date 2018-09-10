@@ -1,0 +1,167 @@
+#!/bin/bash
+if [ "$APEX" == "" ]; then
+  export APEX=/homes/cs240/2018Spring/lab-apex/apex-bin
+fi
+
+function initialize {
+  rm -rf apex
+  mkdir -p apex/A
+  mkdir -p apex/B
+  mkdir -p apex/result
+
+  cp toupper.c apex/A/src.c
+
+# sed -i 's/^\(#include.*\)/\/\/\1/' apex/A/src.c
+# astyle --style=kr --indent=spaces=4 --break-closing-brackets --pad-oper apex/A/src.c > /dev/null
+
+  cp $APEX/makefiles/Makefile.1 apex/A/Makefile
+  cp $APEX/makefiles/Makefile.0 apex/B/Makefile
+  cp $APEX/makefiles/Makefile.2 apex/result/Makefile
+# cp $APEX/html/*.html apex/result/
+}
+
+function check_version {
+  touch apex/input
+  (cd apex/A/; sh $APEX/version_check.sh) > /dev/null
+  check_error
+  set_version $(cat apex/A/version)
+}
+
+function set_version {
+  cp model/exec apex/B/exec
+  cp model/cfg.out apex/B/cfg.out
+  cp model/llvm.out apex/B/llvm.out
+}
+
+function view_src {
+  if [ -e apex/B/stdout ]; then
+    mv apex/result/src.out apex/result/src.0
+    echo '// ================================================' >> apex/result/src.out
+    echo '// Failing input: ' >> apex/result/src.out
+    cat apex/input >> apex/result/src.out
+    echo '// ================================================' >> apex/result/src.out
+    echo '// Expected output: ' >> apex/result/src.out
+    cat apex/B/stdout >> apex/result/src.out
+    echo '// ================================================' >> apex/result/src.out
+    echo '// Your output: ' >> apex/result/src.out
+    cat apex/A/stdout >> apex/result/src.out
+    echo '// ================================================' >> apex/result/src.out
+    echo '' >> apex/result/src.out
+    echo '' >> apex/result/src.out
+    cat apex/result/src.0 >> apex/result/src.out
+  fi
+
+  if [ "$backup" != "" ]; then
+  	cp apex/result/src.out $BACKUPDIR/$backup
+  fi
+  vim -c "source $APEX/vim_color" apex/result/src.out
+  exit 0
+}
+
+function check_error {
+  if [ -e apex/A/symberror.out ]; then
+	cp apex/A/symberror.out apex/result/exp.out
+#    view_src
+  fi
+}
+
+function set_args {
+  if [ "$args" == "16 10 21F" -a "$VERS" == "1" ]; then
+    args="16 10 F12"
+  fi
+  echo "$args" > apex/input
+  touch apex/precond
+}
+
+function check_failure {
+  rm -f toupper
+  make
+
+  if [ ! -e toupper ]; then
+    exit 1
+  fi
+
+
+# ./testall &> /dev/null
+
+
+  n=0
+  while read line; do
+    passfail=$(echo $line | cut -f 1 -d ' ')
+    n=$((n+1))
+    if [ "$passfail" == "FAIL" ]; then
+      break
+    fi
+  done < inputs.out
+
+  if [ "$line" == "" ]; then
+    echo "Your program passed all test cases"
+    exit 0
+  fi
+
+  args=$(echo $line | cut -f 2- -d ' ')
+
+  # if [ $((n<3)) == "1" ]; then
+  #   check_crash
+  # else
+  #   touch .check
+  # fi
+}
+
+function check_crash {
+  set_version 02
+  set_args
+
+  make -C apex/A &> /dev/null
+  check_error
+
+  x1=$(grep STIns apex/A/symb.out | wc -l)
+  x2=$(grep BRIns apex/A/symb.out | wc -l)
+  x3=$(grep FNIns apex/A/symb.out | wc -l)
+  xx=$((x1+x2+x3))
+
+  if (("$xx">"25")); then return 0; fi
+
+
+  if [ ! -e .check ]; then
+    echo "Sorry, your program seems too incomplete to give a useful suggestion."
+    echo "First try work on the first two test cases"
+    echo "First test case: 10 10 10"
+    echo "Second test case: 10 10 5678"
+    exit 0
+  fi
+}
+
+function create_backup {
+  backup=1
+  while [ -e $BACKUPDIR/$backup ]; do
+    backup=$((backup+1))
+  done
+  mkdir -p $BACKUPDIR/$backup
+
+  cp convert.c $BACKUPDIR/$backup
+
+}
+
+initialize
+#create_backup
+check_failure
+#check_version
+set_version
+set_args
+
+make -C apex/A &> /dev/null
+
+check_error
+
+make -C apex/B &> /dev/null
+make -C apex/result &> /dev/null
+
+if [ ! -s apex/result/exp.out ]; then
+  echo "Sorry, your program is too complex and we cannot handle."
+  exit 0 
+fi
+
+cat apex/result/exp.out
+# 
+# view_src

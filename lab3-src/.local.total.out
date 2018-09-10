@@ -1,0 +1,3808 @@
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:24:13 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:26:04 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. cs240   
+Mon Sep  7 10:26:39 EDT 2015
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 24 20:23:56 EST 2018
+-------------------------------------------------
+./countlines in1                    : 0   of 4  
+./countlines in2                    : 0   of 4  
+./countlines hamlet                 : 0   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  0 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 24 20:25:40 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 24 21:35:28 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 24 21:58:43 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 0   of 4  
+./towords in2                       : 0   of 4  
+./towords hamlet                    : 0   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  11 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 10:03:47 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 14:12:18 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 14:24:40 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 14:37:36 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 0   of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  22 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 14:43:28 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 19:53:39 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Jan 25 20:12:19 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 13:48:28 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 13:49:35 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:03:13 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:13:28 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:46:46 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:48:43 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:49:12 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:54:08 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 14:54:47 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:00:57 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:03:29 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:03:35 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:04:41 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:06:37 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:14:29 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:28:34 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:30:41 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:31:25 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  47 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:33:38 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  50 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:36:48 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  56 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:41:39 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  59 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:45:54 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:46:15 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  35 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:46:32 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  59 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:52:05 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  59 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:57:27 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  68 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 15:59:02 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  68 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:03:54 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 0   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  32 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:04:22 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  71 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:04:50 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  74 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:09:07 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 0   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  74 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:26:23 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  38 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:27:36 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  38 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:29:01 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 0   of 3  
+./rpncalc rpn2                      : 0   of 3  
+./rpncalc rpn3                      : 0   of 3  
+./rpncalc rpn4                      : 0   of 3  
+./rpncalc rpn5                      : 0   of 3  
+./rpncalc rpn6                      : 0   of 3  
+./rpncalc rpn7                      : 0   of 3  
+./rpncalc rpn8                      : 0   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 0   of 3  
+./rpncalc rpn12 45                  : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./rpncalc rpn13 2                   : 0   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  38 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 16:29:54 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 17:59:37 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 18:44:48 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 18:46:39 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 18:47:47 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Jan 29 22:03:19 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 00:09:55 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 00:16:41 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 00:19:34 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 00:19:55 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 00:24:44 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 00:35:36 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:17:21 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:21:17 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:28:29 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:40:48 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:49:30 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:50:27 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 11:59:29 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:07:29 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:11:07 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:13:20 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:15:46 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:19:46 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:23:40 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:39:38 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:42:31 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:43:19 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:46:07 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:46:34 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:47:09 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:47:44 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:52:11 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:53:41 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:54:10 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:57:58 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 12:58:25 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 0   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  77 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 13:09:45 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  85 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 13:22:52 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  85 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 13:27:10 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  85 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 13:29:10 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  85 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 13:30:29 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  85 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 13:31:35 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 0   of 8  
+./plot rpn15 -10 10                 : 0   of 7  
+-------------------------------------------------
+                              Total:  85 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 14:25:35 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 18:42:15 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 18:43:40 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 20:42:27 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 21:03:19 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Jan 30 22:21:00 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 11:27:46 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 11:34:43 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 12:02:55 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 12:07:19 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 12:26:33 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 12:27:12 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Jan 31 18:13:44 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Thu Feb  1 09:36:54 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Mon Feb 12 18:29:06 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Feb 14 11:32:09 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Feb 14 22:38:31 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Feb 14 22:39:59 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Feb 28 11:52:51 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Wed Feb 28 21:32:21 EST 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
+
+
+-------------------------------------------------
+CS240: Lab 3. ding183   
+Tue Mar 13 18:20:35 EDT 2018
+-------------------------------------------------
+./countlines in1                    : 4   of 4  
+./countlines in2                    : 4   of 4  
+./countlines hamlet                 : 3   of 3  
+./towords in1                       : 4   of 4  
+./towords in2                       : 4   of 4  
+./towords hamlet                    : 3   of 3  
+./test_stack                        : 10  of 10 
+./rpncalc rpn1                      : 3   of 3  
+./rpncalc rpn2                      : 3   of 3  
+./rpncalc rpn3                      : 3   of 3  
+./rpncalc rpn4                      : 3   of 3  
+./rpncalc rpn5                      : 3   of 3  
+./rpncalc rpn6                      : 3   of 3  
+./rpncalc rpn7                      : 3   of 3  
+./rpncalc rpn8                      : 3   of 3  
+./rpncalc rpn9                      : 3   of 3  
+./rpncalc rpn10                     : 3   of 3  
+./rpncalc rpn11 3                   : 3   of 3  
+./rpncalc rpn12 45                  : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./rpncalc rpn13 2                   : 3   of 3  
+./plot rpn14 -1 1                   : 8   of 8  
+./plot rpn15 -5 5                   : 8   of 8  
+./plot rpn15 -10 10                 : 7   of 7  
+-------------------------------------------------
+                              Total:  100 of 100
+
